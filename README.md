@@ -1,6 +1,6 @@
 # DS3 Datathon 2024 - Celestial Bodies
 
-This notebook is meant to generate predictions for celestial bodies dataset for DS3 Datathon 2024.
+This notebook is meant to generate predictions for the celestial bodies dataset for DS3 Datathon 2024, achieving 97% accuracy on private data.
 
 Created by:
 
